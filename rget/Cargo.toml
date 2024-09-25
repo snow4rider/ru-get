@@ -1,0 +1,8 @@
+[package]
+name = "rget"
+version = "0.1.0"
+authors = ["snow4rider"]
+edition = "2021"
+
+[dependencies]
+clap = "2.26.0"
